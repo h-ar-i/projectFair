@@ -1,0 +1,1 @@
+export const SERVER_URL = "https://pf-server-8cn8.onrender.com"
